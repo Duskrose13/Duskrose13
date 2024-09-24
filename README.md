@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I love cats and my BF**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragongrafdiscord&label=Profile%20views&color=0e75b6&style=flat" alt="dragongrafdiscord" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duskrose13&label=Profile%20views&color=0e75b6&style=flat" alt="dragongrafdiscord" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
