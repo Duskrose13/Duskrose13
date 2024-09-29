@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dusk</h1>
-- 🔭 I’m currently working on **a dino survival game**
+- 🔭 I’m currently working on 𝐚 𝐝𝐢𝐧𝐨 𝐬𝐮𝐫𝐯𝐢𝐯𝐚𝐥 𝐠𝐚𝐦𝐞
 
 - 🌱 I’m currently learning **Unreal engine, game making and design**
 
